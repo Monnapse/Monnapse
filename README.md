@@ -1,4 +1,5 @@
-<p align="center"><a href="https://monnapse.masonshuber.repl.co"><img width="45%"alt="Hello, I'm Monnapse" src="./assets/Monnapse.png"></img>![](https://komarev.com/ghpvc/?username=Monnapse)</a></p>
+<p align="center"><a href="https://monnapse.masonshuber.repl.co"><img width="45%"alt="Hello, I'm Monnapse" src="./assets/Monnapse.png"></img><img src="https://komarev.com/ghpvc/?username=Monnapse"></img></a></p>
+![]()
 
 Hello im Monnapse I love doing all kinds of stuff on computers, making games, programming bots, making graphics.
 
