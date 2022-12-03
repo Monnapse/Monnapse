@@ -23,6 +23,6 @@ I currently know Python, Java, Javascript, Luau, HTML, CSS but I am also learnin
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Monnapse&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monnapse&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Monnapse&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monnapse&layout=compact"></img>
 </picture>
