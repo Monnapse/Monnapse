@@ -11,11 +11,5 @@ I currently know Python, Java, Javascript, Luau, HTML, CSS but I am also learnin
 <img width="4%" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></img>
 <img width="4%" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></img>
 
-<div>
-  
-  ![Monnapse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monnapse&show_icons=true&theme=github_dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monnapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Monnapse&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false" alt="Monnapse's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monnapse&layout=compact&theme=github_dark&hide_border=false" /></a> |
 | ------------- | ------------- |
