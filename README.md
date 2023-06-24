@@ -3,7 +3,7 @@
 
 Hello im Monnapse I love doing all kinds of stuff on computers, making games, programming bots, making graphics.
 
-I currently know Python, C#, Java, Javascript, Luau, HTML, CSS. Softwares I use is Roblox Studio, Unreal Engine 5, Visual Studio 2022, Visual Studio Code, Substance Painter, Substance Sampler, Substance Designer, Adobe Photoshop, Adobe Ilustrator, Premeire Pro, Blender.
+I currently know Python, C#, Java, Javascript, Luau, HTML, CSS. Softwares I use is Roblox Studio, Unreal Engine, Visual Studio, Visual Studio Code, Substance Painter, Substance Sampler, Substance Designer, Adobe Photoshop, Adobe Ilustrator, Premeire Pro, Blender.
 
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></img>
