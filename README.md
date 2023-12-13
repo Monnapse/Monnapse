@@ -1,9 +1,9 @@
 <p align="center"><a href="https://monnapse.masonshuber.repl.co"><img width="45%"alt="Hello, I'm Monnapse" src="./assets/Monnapse.png"></img></a></p>
 <p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Monnapse"></img></p>
 
-Hello im Monnapse I love doing all kinds of stuff on computers, making games, programming bots, making graphics.
+Greetings, I'm Mason Huber, also known as Monnapse. I specialize in game development, programming, and 3D art.
 
-I currently know Python, C#, Java, Javascript, Luau, HTML, CSS. Softwares I use is Roblox Studio, Unreal Engine, Visual Studio, Visual Studio Code, Substance Painter, Substance Sampler, Substance Designer, Adobe Photoshop, Adobe Ilustrator, Premeire Pro, Blender.
+I currently know Python, C++, C#, Java, Javascript, Luau, HTML, CSS. Softwares I use/know is Roblox Studio, Unreal Engine, Unity, Visual Studio, Visual Studio Code, Substance Painter, Substance Sampler, Substance Designer, Adobe Photoshop, Adobe Ilustrator, Premeire Pro, Blender, TreeIt, Marvelous Designer, and some others.
 
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></img>
