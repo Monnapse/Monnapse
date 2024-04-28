@@ -1,4 +1,4 @@
-<p align="center"><a href="https://monnapse.dev"><img width="65%"alt="Hello, I'm Monnapse" src="./assets/Asset 3.svg"></img></a></p>
+<p align="center"><a href="https://monnapse.dev"><img width="90%"alt="Hello, I'm Monnapse" src="./assets/Asset 3.svg"></img></a></p>
 <p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Monnapse"></img></p>
 
 Greetings, I'm Mason Huber, also known as Monnapse. I specialize in game development, programming, and 3D art.
