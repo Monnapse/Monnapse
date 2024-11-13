@@ -1,9 +1,11 @@
 <p align="center"><a href="https://monnapse.dev"><img width="90%"alt="Hello, I'm Monnapse" src="./assets/Asset 3.svg"></img></a></p>
 <p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Monnapse"></img></p>
 
-Greetings, I'm Mason Huber, also known as Monnapse. I specialize in game development, programming, and 3D art.
-
-I currently know Python, C++, C#, Java, Javascript, Luau, HTML, CSS. Softwares I use/know is Roblox Studio, Unreal Engine, Unity, Visual Studio, Visual Studio Code, Substance Painter, Substance Sampler, Substance Designer, Adobe Photoshop, Adobe Ilustrator, Premeire Pro, Blender, TreeIt, Marvelous Designer, and some others.
+Hello, my name is Mason Huber, and I am a dedicated game developer with over four years of experience in the industry. 
+I have the knowledge to do the entire game development process, my expertise specializes in programming. 
+In addition to game development, I have lots of skill sets including creating bots, developing websites, managing databases, and navigating Linux environments. 
+Although I am primarily self taught, I have also strengthened my skills by completing many courses in programming to improve my knowledge. 
+I am hopeful and looking forward to bringing my skills, creativity, and problem solving abilities to a team where I can continue to grow and contribute.
 
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
 <img width="3%" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></img>
